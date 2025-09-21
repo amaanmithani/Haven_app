@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="[URL_TO_A_LOGO_OR_BANNER_IMAGE_IF_YOU_HAVE_ONE]" alt="Haven App Banner" width="800"/>
+  <img src="https://github.com/amaanmithani/Haven_app/blob/main/FDC27F0B-39FF-4569-B771-5227B7FF5101_4_5005_c.jpeg?raw=true" alt="Haven App Banner" width="800"/>
   <h1 align="center">Haven: An AI-Powered Digital Wellness App</h1>
   <p align="center">
     A privacy-first mobile application to help users understand and reclaim their digital footprint.
