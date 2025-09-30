@@ -36,7 +36,7 @@ Haven is a privacy-first mobile application that empowers users to take back con
 
 ---
 
-### 👨‍💻 My Contributions as Co-Founder & CTO
+### 👨‍💻 My Contributions as Co-Founder & Founding Engineer
 
 As the technical co-founder, I led the entire product lifecycle from ideation and architectural design to deployment and user testing. My key contributions include:
 
