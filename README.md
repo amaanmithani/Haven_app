@@ -7,7 +7,7 @@
     A privacy-first mobile application to help users understand and reclaim their digital footprint.
   </p>
   <p align="center">
-    <strong>My Role: Co-Founder & Chief Technology Officer (CTO)</strong>
+    <strong>My Role: Co-Founder & Founding Engineer</strong>
   </p>
 </div>
 
