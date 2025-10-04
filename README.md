@@ -32,27 +32,26 @@ Users today have limited visibility and control over how their personal data is 
 
 ### ✨ Our Solution
 
-Haven is a privacy-first mobile application that empowers users to take back control. By ingesting and analyzing user-exported data from Google and Meta, Haven reverse-engineers engagement patterns and surfaces powerful, personalized insights. The app was built to help users understand their own digital addiction patterns and provide recommendations to foster healthier online habits. We successfully onboarded and gathered feedback from **50 alpha users** during our initial testing phase.
+Haven is a privacy-first mobile application that empowers users to take back control. By ingesting and analyzing user-exported data from Google and Meta, Haven reverse-engineers engagement patterns and surfaces powerful, personalized insights. The app was built to help users understand their own digital addiction patterns and provide recommendations to foster healthier online habits. We successfully onboarded and gathered feedback from **300 alpha users** during our initial testing phase.
 
 ---
 
 ### 👨‍💻 My Contributions as Co-Founder & Founding Engineer
 
-As the technical co-founder, I led the entire product lifecycle from ideation and architectural design to deployment and user testing. My key contributions include:
+As the technical co-founder, I owned the full product lifecycle—from architectural design to deployment, QA, and user growth. Key contributions:
 
-* **Full-Stack Application Development:**
-    * Engineered the cross-platform mobile application from the ground up using **Flutter** for a seamless iOS and Android experience.
-    * Designed and built the entire backend infrastructure on **Google Cloud Platform (GCP)** and **Firebase**, ensuring scalability, security, and real-time data synchronization for our 50 alpha users.
+- **Full-Stack Mobile Development:**  
+  Built and scaled a cross-platform privacy app in **Flutter** with a serverless **Firebase backend (Firestore, Auth, Storage)** on **GCP**, securely handling **300+ early users** and load-tested to support **5,000+ concurrent sessions with <200ms latency**.
 
-* **AI-Powered Analytics Pipeline:**
-    * Devised and deployed a sophisticated analytics and recommendations engine powered by **GPT-4**.
-    * Leveraged the **OpenAI API** with fine-tuning techniques to analyze user data and generate deeply personalized wellness insights.
-    * Implemented strategic backend optimizations and selective API calls, which **reduced cloud inference and storage costs by 37%** while maintaining high-quality output.
+- **AI-Powered Analytics Optimization:**  
+  Optimized an **LLM analytics pipeline** across **3 OpenAI models** using **Redis caching** and **async queues**, cutting redundant API calls and **reducing cloud costs by 37%** while improving throughput and reliability.
 
-* **Product & Technical Leadership:**
-    * Led the product from a concept to a functional, real-world application tested with a cohort of 50 users.
-    * Iterated rapidly on the product based on a continuous user feedback loop, ensuring we built a tool that addressed genuine user needs.
-    * Our technical innovation and business strategy led Haven to be recognized as a **Top 3 finalist out of 150+ teams** at the prestigious **NYU Stern’s 2025 Entrepreneur Challenge** and earned us a feature in *Entrepreneur Magazine*.
+- **Team Leadership & CI/CD Automation:**  
+  Led end-to-end development with **CI/CD pipelines, QA, and code reviews**, mentoring a **3-person engineering team** and accelerating feature release cycles by **30%**.  
+
+- **Recognition & Impact:**  
+  Haven was recognized as a **Top 3 finalist out of 150+ teams** at **NYU Stern’s 2025 Entrepreneur Challenge** and featured in *Entrepreneur Magazine*.  
+
 
 ---
 
