@@ -63,3 +63,14 @@ As the technical co-founder, I owned the full product lifecycle—from architect
 | **☁️ Cloud & Backend** | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />                                                    |
 | **🤖 AI & Machine Learning** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/GPT--4-74aa9c?style=flat" /> |
 | **Databases** | <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=flat&logo=google-cloud&logoColor=white" />                                               |
+
+
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="sc1.png" alt="Home Screen" width="250"/>
+  <img src="sc2.png" alt="Analytics View" width="250"/>
+  <img src="sc3.png" alt="Privacy Settings" width="250"/>
+  
+</p>
+
